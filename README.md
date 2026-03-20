@@ -8,12 +8,21 @@ This repository contains the dataset and example files for the NIO Student Hacka
 
 ## The Task
 
-Given a JPEG image of a meshed hole (cropped from a larger vehicle finite element mesh), your pipeline should:
+### Objective
 
-1. Process the image to extract geometric information about the mesh nodes and elements.
-2. Output a `.nas` file in the Nastran bulk data format that reproduces the mesh shown in the image as closely as possible.
+Participants are provided with a dataset of 100 .jpeg images representing finite element (FE) meshes.
 
-Full details of the required output format and evaluation criteria are provided in the Competition Brief, released at the start of the event alongside the main dataset.
+The goal is to develop a Python-based solution that takes a .jpeg image as input and outputs a corresponding .nas file that details the underlying mesh geometry.
+
+No prior experience with .nas files is expected. Full .nas format details are provided in this pack.
+
+
+### Required Submission
+
+Each team must submit:
+- Generated output of the 100 .nas files corresponding to the provided .jpegs
+- The full, reproducible, well-documented code used to generate the .nas files
+- A concise one-page report that summarises the approach, methods, and tools used (including AI/LLMs, if applicable).
 
 ---
 
