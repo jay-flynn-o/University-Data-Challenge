@@ -157,9 +157,10 @@ You are encouraged to use these examples to test and calibrate your solution bef
 ---
 
 ## Tips for Getting Started
+There is a lot of information in this pack, which will be overwhelming at first. We suggest starting with the simple solutions first, and as you become more familiar with the example images and .nas files, the task will become more clear. A few suggestions on where to start:
 
-- The magenta axis lines are your primary reference for mapping pixel coordinates to real-world mesh coordinates. Identify where they intersect to locate the origin.
-- Most elements in this dataset are `CQUAD4` (quadrilateral). `CTRIA3` (triangular) elements appear occasionally, typically at irregular boundaries.
+- The magenta axis lines are your primary reference for mapping pixel coordinates to real-world mesh coordinates. Identify where they intersect to locate the origin and define your coordinate system.
+- Most elements in this dataset are `CQUAD4` (quadrilateral). `CTRIA3` (triangular) elements appear occasionally, typically at irregular boundaries. Focus on understanding quads first.
 - The `z` coordinate is always `0.` — this is a flat 2D mesh projected into the XY plane.
 - The `prop_id` field in all element definitions is always `101`.
 - Node and element IDs do not need to start from any specific value, but must be unique within the file.
