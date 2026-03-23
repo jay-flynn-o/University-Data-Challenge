@@ -16,7 +16,6 @@ This repository contains the dataset and example files for the NIO Student Hacka
 
 - [Terms and Conditions](https://nio.jp.feishu.cn/docx/D1Q0dlw3KoOpoKxGRuQjgi53puf)
 - [Data Privacy Notice](https://nio.jp.feishu.cn/docx/ZqHndQhMCoSWpcx8xbtjeVSGpJh?from=from_parent_docx)
-- [Pre-Registration Information Pack](https://nio.jp.feishu.cn/file/Vo6xbBnZGoCrSlx5CUOjcVtqp6f?from=from_copylink)
 
 ---
 
