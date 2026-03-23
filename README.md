@@ -23,10 +23,9 @@ This repository contains the dataset and example files for the NIO Student Hacka
 
 - NIO uses an iterative CAD refinement process that includes automated quality checks before simulation (e.g. crash testing)
 - A key quality check ensures bolt/fixing holes are correctly meshed, currently handled by bespoke computer vision scripts
-- The hackathon aims to develop an improved method using CNNs or Multi-modal LLMs to improve on current methods
-- The main challenge is insufficient labelled training and testing data, particularly for failure cases
-- This hackathon aims to develop methods to address this challenge, by solving a data challenge to contribute towards a synthetic data generation pipeline
-- This hackathon addresses the first step in a larger research project
+- As part of a wider research project, we aim to develop an improved qulaity assurance method using CNNs or Multi-modal LLMs
+- The main challenge in delivering these improved solutions is insufficient labelled training and testing data, particularly for failure cases
+- This hackathon aims to develop methods to address this challenge, by contributing towards the first step in a larger research project towards a synthetic data generation pipeline
 - This event is also part of a wider talent scouting initiative for NIO's grad schemes, industry funded projects, and other academic collaborations
 - Further information on the project background and context can be found in the pre-registration pack
 
