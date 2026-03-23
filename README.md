@@ -16,7 +16,11 @@ This repository contains the dataset and example files for the NIO Student Hacka
 
 - [Terms and Conditions](https://nio.jp.feishu.cn/docx/D1Q0dlw3KoOpoKxGRuQjgi53puf)
 - [Data Privacy Notice](https://nio.jp.feishu.cn/docx/ZqHndQhMCoSWpcx8xbtjeVSGpJh?from=from_parent_docx)
+---
 
+## Not Yet Registered? 
+If you have not yet registered for the event and wish to do so, please fill in the registration form found here: 
+- Link: https://forms.office.com/Pages/ResponsePage.aspx?id=ly8b6j9Cs0q_bUWjbAnONHz2I4aOuwtCtg7vuPMHdqFUMzhHM1MwMkdCVldNOTE4OURWREwzVEQ2VC4u 
 ---
 
 ## Background
