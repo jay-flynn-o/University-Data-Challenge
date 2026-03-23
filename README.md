@@ -75,6 +75,7 @@ Each team's **Chief Engineer** must submit:
 
 3. **A concise, well-presented one-page report** summarising the approach, methods, and tools used (including AI/LLMs, if applicable)
    - `.docx` or `.pdf` format
+   - please explicitly state which all AI models used throughout your research, development, testing, etc. i.e. Claude Code, Chat GPT, Perplexity, Antigravity, etc. 
 
 > ⚠️ **Omitting any of these 3 key requirements may result in your submission being rejected.**
 
