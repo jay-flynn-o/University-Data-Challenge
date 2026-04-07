@@ -146,7 +146,7 @@ Each line defines the boundary of a mesh element by referencing its corner node 
 
 **Quadrilateral element (4 nodes):**
 ```
-CQUAD4    <elem_id>  <prop_id>  <n1>  <n2>  <n3>  <n4>
+CQUAD4    <elem_id>  <file_id>  <n1>  <n2>  <n3>  <n4>
 ```
 
 **Triangular element (3 nodes):**
